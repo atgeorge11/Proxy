@@ -13,3 +13,12 @@
 #head {
     max-width: 1040px;
 }
+
+#carouselTag {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #383838;
+}
